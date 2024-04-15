@@ -4,10 +4,9 @@
 #include "framework.h"
 #include "Application.h"
 
-
 CoolClass::CoolClass(void)
 {
-}
+
 
 int CoolClass::Calc(int a, int b)
 {
